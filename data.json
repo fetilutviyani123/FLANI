@@ -1,0 +1,71 @@
+{
+    "amigurumi": [
+        {
+            "foto": "images/produk/IMG_20230709_224518_728.jpg",
+            "nama": "Bunny Flower",
+            "size": "8 cm",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=cbunny+flower&tbm=shop"
+        },
+        {
+            "foto": "images/produk/IMG_20230803_202014_259.jpg",
+            "nama": "Octopus",
+            "size": "8 cm",
+            "harga": "35 .000",
+            "link": "https://www.google.com/search?q=octopus&tbm=shop"
+        },
+        {
+            "foto": "images/produk/IMG_20230803_202815_773.jpg",
+            "nama": "Angry Bird",
+            "size": "15 cm",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=angry+bird&tbm=shop"
+        }
+    ],
+    "tas": [
+        {
+            "foto": "images/produk/PhotoRoom-20230127_130439.png",
+            "nama": "Daisy bag",
+            "size": "20 x 18 cm",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=daisy+bag&tbm=shop"
+        },
+        {
+            "foto": "images/produk/PhotoRoom-20230323_220235.png",
+            "nama": "Jj Bag",
+            "size": "20 x 15 cm",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=jj+bag&tbm=shop"
+        },
+        {
+            "foto": "images/produk/PhotoRoom-20230323_222016.png",
+            "nama": "Sling Bag",
+            "size": "10 x 15 cm Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=sling+bag&tbm=shop"
+        },
+        {
+            "foto": "images/produk/PhotoRoom-20230323_220619.png",
+            "nama": "Dav Bag",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=sling+bag&tbm=shop"
+        }
+    ],
+    "backpaker": [
+        {
+            "foto": "images/produk/IMG_20230709_223342_397.jpg",
+            "nama": "Aul Bag",
+            "size": "30 x 30 cm",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=aul+bag&tbm=shop"
+        },
+        {
+            "foto": "images/produk/PhotoRoom-20230323_220454.png",
+            "nama": "Dik Bag",
+            "size": "22 x 28 cm",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=dik+bag&tbm=shop"
+        }
+    ]
+}
